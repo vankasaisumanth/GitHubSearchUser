@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GitHubSearchUser</string>
+    <string name="networkConnection">No internet Connection please make sure your device is connected to internet/</string>
+</resources>
